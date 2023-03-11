@@ -1,0 +1,26 @@
+{
+  "name": "harry-notebook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "nodemon index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayeshaarshad8765/harry-notebook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ayeshaarshad8765/harry-notebook/issues"
+  },
+  "homepage": "https://github.com/Ayeshaarshad8765/harry-notebook#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.1",
+    "nodemon": "^2.0.21"
+  }
+}
